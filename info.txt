@@ -1,1 +1,2 @@
 Autor: Alan Bastek
+Kurs: technologie DevOps
