@@ -1,1 +1,2 @@
-Kurs: DevOps
+Kurs: technologie DevOps
+
